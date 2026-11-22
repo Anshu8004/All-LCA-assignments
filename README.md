@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35230150/README.md)
 # LCA Assignments
 
 This repository contains C programming assignments and lab exercises for the LCA course.
@@ -38,7 +37,7 @@ This repository contains C programming assignments and lab exercises for the LCA
    - **Description:** Swaps two numbers using a function that receives their addresses (call by reference).
 
 8. **File Copy**
-   - **File:** `Assignment 8 (Pointer 2)`
+   - **File:** `Assignment 9`
    - **Description:** Copies the contents of one file into another character by character using `fopen`, `fgetc`, `fputc` and `fclose`, with error checking.
 
 ---
